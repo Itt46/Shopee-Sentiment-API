@@ -2,4 +2,4 @@ pydantic
 fastapi
 torch
 transformer
---no-deps thai2transformers
+thai2transformers --no-deps
