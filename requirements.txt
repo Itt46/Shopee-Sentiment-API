@@ -57,7 +57,7 @@ safetensors
 scikit-learn
 scipy
 SEFR-CUT
-sentencepiece-binary
+sentencepiece
 seqeval
 six
 sniffio
