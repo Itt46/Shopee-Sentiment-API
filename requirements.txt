@@ -1,7 +1,13 @@
 fastapi
 uvicorn
 torch
--q emoji pythainlp sefr_cut tinydb seqeval sentencepiece pydantic jsonlines
+emoji 
+pythainlp 
+sefr_cut 
+tinydb 
+seqeval 
+pydantic 
+jsonlines
 sentencepiece
 transformers
 thai2transformers
