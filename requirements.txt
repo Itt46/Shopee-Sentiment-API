@@ -57,7 +57,7 @@ safetensors
 scikit-learn
 scipy
 SEFR-CUT
-sentencepiece
+sentencepiece==0.1.82
 seqeval
 six
 sniffio
