@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 torch
+sentencepiece
 transformers
 thai2transformers
 pydantic
