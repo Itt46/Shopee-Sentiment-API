@@ -8,7 +8,7 @@ tinydb
 seqeval 
 pydantic 
 jsonlines
-sentencepiece
+sentencepiece==0.1.91 --find-links=https://github.com/google/sentencepiece/releases/download/v0.1.91/
 transformers
 thai2transformers
 pydantic
